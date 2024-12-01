@@ -1,0 +1,37 @@
+html {
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    font-size: verdana;
+  }
+  p{
+    font-size: 22px;
+  }
+  
+  body {
+    background-color: #9393cc;
+    align-items: center;
+    justify-content: center;
+   display: flex;
+   height: 100vh;
+  }
+  
+  button{
+    background-color:powderblue;
+    style:width 60px; height: 30px
+  }
+  input{
+    background-color:powderblue;
+    style:width 60px; height: 30px
+  }
+  h1{
+    font-size: 72px;
+    background: linear-gradient(
+      270deg, #3f5efb, #fc466b
+    );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  
+   
+  
